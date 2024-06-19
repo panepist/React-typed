@@ -18,7 +18,8 @@ export function App(){
 # install Demo
 ----
 ```
-cd 
+https://github.com/panepist/React-typed.git
+cd React-typed
 npm install
 npm start
 ```
