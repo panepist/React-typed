@@ -13,7 +13,7 @@ export function App(){
         ...
         <Typed msg="...text..."/>
         ...
-    )
+    )}
 ```
 # install Demo
 ----
