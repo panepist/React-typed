@@ -3,7 +3,6 @@ import React, { useState, useEffect } from "react";
 //function typing text
 export function Typed({msg,className}){
     const [text,setText]=useState("");
-
     useEffect(  ()=>{
         if (text.length<msg.length){
             //delay 90 ms 
